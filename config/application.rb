@@ -10,6 +10,7 @@ module Myapp
   class Application < Rails::Application
     # Initialize configuration defaults for originally generated Rails version.
     config.load_defaults 6.1
+    config.hosts << "5956f47917ff4a79ac0e4d27f723c9f5.vfs.cloud9.ap-northeast-1.amazonaws.com"
 
     # Configuration for the application, engines, and railties goes here.
     #

@@ -1,3 +1,5 @@
+
+
 # frozen_string_literal: true
 
 class DeviseCreateCustmers < ActiveRecord::Migration[6.1]
